@@ -1,0 +1,1 @@
+ren label*.txt image*.txt
